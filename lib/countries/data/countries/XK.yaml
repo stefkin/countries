@@ -1,0 +1,34 @@
+---
+XK:
+  continent: Europe
+  alpha2: KS
+  alpha3: RKS
+  country_code: 'XK'
+  international_prefix: '383'
+  ioc: RKS
+  name: Kosovo
+  region: Europe
+  subregion: Eastern Europe
+  world_region: EMEA
+  un_locode: XK
+  postal_code: true
+  unofficial_names:
+  - Kosovo
+  - Косово
+  languages_official:
+  - alb
+  - bs
+  - sr
+  - tr
+  languages_spoken:
+  - alb
+  - bs
+  - sr
+  - tr
+  geo:
+    latitude: 42.666667
+    latitude_dec: '42.666667'
+    longitude: 21.166667
+    longitude_dec: '21.166667'
+  currency_code: XK
+  start_of_week: monday
